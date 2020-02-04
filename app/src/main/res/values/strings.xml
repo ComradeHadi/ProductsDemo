@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppTemplate</string>
+    <string name="relay_error_int">An Error Occured</string>
+</resources>
